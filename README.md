@@ -37,3 +37,6 @@ In the final step, the model performs a **sample prediction**. A single image fr
 ### **Conclusion**
 
 This Jupyter Notebook effectively demonstrates how to implement an end-to-end deep learning pipeline for binary image classification. It covers data extraction, preprocessing, model building, training, evaluation, and prediction visualization. This workflow is scalable and can be adapted to multi-class classification tasks by modifying the model and data structure.
+
+**OUTPUT**:TASK2
+<img width="510" height="544" alt="Image" src="https://github.com/user-attachments/assets/dbde0fba-af52-4442-8005-35cce239618e" />
